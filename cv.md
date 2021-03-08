@@ -12,7 +12,7 @@ This course is my first experience in IT. I had no prior programming experience.
 
 As I noted earlier, this is the first experience, so my mind has not yet comprehended all the achievements in the field of programming.
 
-`sample code { }`
+`sample code {}`
 
 ### Experience
 
